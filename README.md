@@ -1,4 +1,4 @@
-## Hi 👋, I am Doris Obodoefuna
+## Hi 👋, I am Doris C. Obodoefuna
 
 ### Here to eXplore ideas
 
