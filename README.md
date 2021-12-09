@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hi 👋, I am Doris Obodoefuna
 
-<!--
-**C-doris/c-doris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here to eXplore ideas
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on geospatial analysis
+- 🌱 I’m currently learning geospatial analytics
+- 👯 I’m looking to collaborate on geospatial analytics
+- 🤔 I’m looking for help with geospatial analytics
+- 💬 Ask me about remote sensing and geomorphology
+- 📫 How to reach me: 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love to teach kids
